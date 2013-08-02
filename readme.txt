@@ -2,8 +2,8 @@
 Contributors: oskarhane
 Tags: auth, two factor auth, login, security, authenticate, password, hacking, security plugin, secure
 Requires at least: 3.1.0
-Tested up to: 3.5.2
-Stable tag: 1.0
+Tested up to: 3.6
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,5 +29,8 @@ or
 
 
 == Changelog ==
+= 1.0.1 =
+* Tested in WP 3.6
+
 = 1.0 =
 * Initial release.
