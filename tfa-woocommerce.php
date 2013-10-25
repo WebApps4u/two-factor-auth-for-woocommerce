@@ -4,7 +4,7 @@ Plugin Name: Two Factor Auth for WooCommerce
 Description: Adds Two Factor Auth login for WooCommerce. Needs the free plugin Two Factor Auth to function.
 Author: Oskar Hane
 Author URI: http://oskarhane.com
-Version: 1.0.1
+Version: 1.0.2
 License: GPLv2 or later
 */
 
